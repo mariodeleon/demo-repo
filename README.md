@@ -1,7 +1,2 @@
-# Demo
-Some description.
 
-## Hola
-
-## Demo2
-1. asdf 1234
+-- bienvenidos a las ramas de Git
